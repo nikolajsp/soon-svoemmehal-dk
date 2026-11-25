@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xn--svmmehal-64a.dk/sitemap.xml
